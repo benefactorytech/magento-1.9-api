@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Benefactory_BFOrder>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Benefactory_BFOrder>
+    </modules>
+</config>
